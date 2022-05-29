@@ -7,3 +7,4 @@ this is fifth
 test remote
 test fetch
 TEST Local
+TEST REMOTE
